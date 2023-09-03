@@ -1,0 +1,14 @@
+{
+  "name": "lechavezl-copywriter-portfolio",
+  "version": "1.0.0",
+  "description": "Luis Chavez's Copywriter Portfolio",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Luis Chavez <luisernestochavezleal@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
+}
